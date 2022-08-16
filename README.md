@@ -1,2 +1,2 @@
 # Python-Cookbook
-small basic python tutorials for people who already knows how to code in other language
+basic python tutorials for those who are already able to code in other programming languages
