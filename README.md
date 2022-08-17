@@ -12,7 +12,15 @@ YES\! It's in alpha, several things will change yet, by now the only avaible lan
 ### Have you found a mistake or a better explanation for a topic/concept/code or even wants to add more content? ###
 Create a pull request and wait, i've almost never used this feature before. So be patience.
 
-## First Tutorial ##
-####Tipos de Dados####
-
-[teste](#https://github.com/thenickz/Python-Cookbook/blob/a698c29547723d176e3a77a62b467bcbb2bf6bce/dados%20num%C3%A9ricos.ipynb)
+# The Cookbook #
+(portuguese only)
+### Python Basics ###
+#### Tipos de Dados ####
+1. [Tipos Numéricos:](https://github.com/thenickz/Python-Cookbook/blob/a698c29547723d176e3a77a62b467bcbb2bf6bce/dados%20num%C3%A9ricos.ipynb) int, float, complex
+2. Sequence Types: list, tuple, range
+3. Text Type: str
+4. Boolean Type: 	bool
+5. None Type: None
+6. Mapping Type: 	dict
+7. Set Types: set
+8. Binary Types: 	bytes, bytearray, memoryview
