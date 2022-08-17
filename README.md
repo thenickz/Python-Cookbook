@@ -11,3 +11,8 @@ YES\! It's in alpha, several things will change yet, by now the only avaible lan
 
 ### Have you found a mistake or a better explanation for a topic/concept/code or even wants to add more content? ###
 Create a pull request and wait, i've almost never used this feature before. So be patience.
+
+## First Tutorial ##
+####Tipos de Dados####
+
+[teste](#dados-numéricos.ipynb)
