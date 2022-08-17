@@ -15,4 +15,4 @@ Create a pull request and wait, i've almost never used this feature before. So b
 ## First Tutorial ##
 ####Tipos de Dados####
 
-[teste](#dados-numéricos.ipynb)
+[teste](#https://github.com/thenickz/Python-Cookbook/blob/a698c29547723d176e3a77a62b467bcbb2bf6bce/dados%20num%C3%A9ricos.ipynb)
