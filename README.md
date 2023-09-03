@@ -7,7 +7,7 @@
 [...] A cookbook in the programming context is collection of tiny programs that each demonstrate a particular programming concept. The Cookbook Method is the process of learning a programming language by building up a repository of small programs that implement specific programming concepts. [...] [ see more](https://www.devdungeon.com/cookbook)
 
 ### Is this project still going? ###
-YES\! It's in alpha, several things will change yet, by now the only avaible language is portuguese.
+**NO\!** It's in alpha, several things hve to change. The author is just testing this method of tutorial, by now the only avaible language is portuguese.
 
 ### Have you found a mistake or a better explanation for a topic/concept/code or even wants to add more content? ###
 Create a pull request and wait, i've almost never used this feature before. So be patience.
